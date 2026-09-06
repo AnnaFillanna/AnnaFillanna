@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hallo, ich bin Anna 👋
 
-<!--
-**AnnaFillanna/AnnaFillanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin angehende Full-Stack-Webentwicklerin mit Fokus auf moderne Webentwicklung.
 
-Here are some ideas to get you started:
+Aktuell vertiefe ich meine Kenntnisse in JavaScript und TypeScript und entwickle verschiedene Webprojekte, um meine praktischen Fähigkeiten kontinuierlich auszubauen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Full-Stack Web Development  
+💻 Frontend: HTML, CSS, JavaScript, TypeScript  
+⚙️ Schritt für Schritt Richtung Backend-Entwicklung  
+🐍 Als Nächstes: Python & Data Science  
+🤖 Langfristiges Ziel: AI Engineering
+
+## 🛠️ Technologien & Tools
