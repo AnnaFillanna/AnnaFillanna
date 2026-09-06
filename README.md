@@ -11,3 +11,6 @@ Aktuell vertiefe ich meine Kenntnisse in JavaScript und TypeScript und entwickle
 🤖 Langfristiges Ziel: AI Engineering
 
 ## 🛠️ Technologien & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,git,github,vscode,npm" />
+</p>
