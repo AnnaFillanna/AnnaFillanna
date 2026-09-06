@@ -13,4 +13,5 @@ Aktuell vertiefe ich meine Kenntnisse in JavaScript und TypeScript und entwickle
 ## 🛠️ Technologien & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,git,github,vscode,npm" />
+  <img width="48" height="48" src="https://img.shields.io/badge/-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 </p>
