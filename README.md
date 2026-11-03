@@ -1,18 +1,31 @@
 # Hallo, ich bin Anna 👋
 
-Ich bin angehende Full-Stack-Webentwicklerin mit Fokus auf moderne Webentwicklung.
+Frontend Developer mit Fokus auf **React** und **TypeScript**.  
+Ich entwickle moderne, responsive Webanwendungen und interaktive Benutzeroberflächen.
 
-Aktuell vertiefe ich meine Kenntnisse in JavaScript und TypeScript und entwickle verschiedene Webprojekte, um meine praktischen Fähigkeiten kontinuierlich auszubauen.
+### Tech Stack
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS/SCSS
+- **Tools:** Vite, React Router, Redux Toolkit, Git
+- **Andere:** Supabase, REST APIs
 
-🎓 Full-Stack Web Development  
-💻 Frontend: HTML, CSS, JavaScript, TypeScript  
-⚙️ Schritt für Schritt Richtung Backend-Entwicklung  
-🐍 Als Nächstes: Python & Data Science  
-🤖 Langfristiges Ziel: AI Engineering
+### Ausgewählte Projekte
 
-## 🛠️ Technologien & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,webpack,git,github,vscode,npm" />
-  <img width="48" height="48" src="https://img.shields.io/badge/-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Photoshop"/>
-</p>
+**[Dana Tattoo Studio](https://tattoodana.de)** — Kundenprojekt  
+Vollständige Website für ein Tattoo-Studio mit Galerie, Leistungen und WhatsApp-Integration.  
+Tech: React, TypeScript, Vite, SCSS Modules, Supabase
+
+**[Mamma Mia – Pizza Configurator](https://annafillanna.github.io/Pizzeria-Mama-Mia)**  
+Interaktive Demo mit Pizza-Konfigurator, Warenkorb und Bestellablauf.  
+Tech: React, TypeScript, Redux Toolkit
+
+**[VELORA Beauty](https://annafillanna.github.io/velora-beauty)**  
+Beauty-Studio Demo mit mehrstufiger Terminbuchung und Produktkatalog.  
+Tech: React, TypeScript, React Router
+
+**[KAVRO Barber Studio](https://annafillanna.github.io/kavro-barber-shop)**  
+Barber-Shop Demo mit Serviceübersicht und Terminbuchung.
+
+### Kontakt
+- Website: [annafilippi.studio](https://annafilippi.studio)
+- E-Mail: annakiefel@web.de
+- Standort: Andernach, Deutschland
