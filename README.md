@@ -1,7 +1,7 @@
 # Hallo, ich bin Anna 👋
 
 Frontend Developer mit Fokus auf **React** und **TypeScript**.  
-Ich entwickle moderne, responsive Webanwendungen und interaktive Benutzeroberflächen.
+Ich entwickle moderne, responsive Webanwendungen und interaktive Benutzeroberflächen. Aktuell vertiefe ich parallel meine Full-Stack-Kenntnisse.
 
 ### Tech Stack
 - **Frontend:** React, TypeScript, JavaScript, HTML, CSS/SCSS
