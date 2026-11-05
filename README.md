@@ -1,31 +1,55 @@
 # Hallo, ich bin Anna 👋
 
-Frontend Developer mit Fokus auf **React** und **TypeScript**.  
-Ich entwickle moderne, responsive Webanwendungen und interaktive Benutzeroberflächen. Aktuell vertiefe ich parallel meine Full-Stack-Kenntnisse.
+Ich entwickle Websites und interaktive Webanwendungen mit **React und TypeScript**. Dabei verbinde ich individuelle Gestaltung mit klaren Benutzerabläufen – von der ersten Idee bis zur Veröffentlichung. Meine Full-Stack-Kenntnisse baue ich Schritt für Schritt aus.
 
-### Tech Stack
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS/SCSS
-- **Tools:** Vite, React Router, Redux Toolkit, Git
-- **Andere:** Supabase, REST APIs
+## Ausgewählte Projekte
 
-### Ausgewählte Projekte
+### 1. Dana Tattoo Studio
 
-**[Dana Tattoo Studio](https://tattoodana.de)** — Kundenprojekt  
-Vollständige Website für ein Tattoo-Studio mit Galerie, Leistungen und WhatsApp-Integration.  
-Tech: React, TypeScript, Vite, SCSS Modules, Supabase
+Reales Kundenprojekt für ein Tattoo-Studio in Andernach. Ich habe die Konzeption, das Design und die vollständige Entwicklung übernommen. Die Website präsentiert Arbeiten und Leistungen und ermöglicht Terminanfragen über WhatsApp.
 
-**[Mamma Mia – Pizza Configurator](https://annafillanna.github.io/Pizzeria-Mama-Mia)**  
-Interaktive Demo mit Pizza-Konfigurator, Warenkorb und Bestellablauf.  
-Tech: React, TypeScript, Redux Toolkit
+**React · TypeScript · SCSS Modules · Supabase**
 
-**[VELORA Beauty](https://annafillanna.github.io/velora-beauty)**  
-Beauty-Studio Demo mit mehrstufiger Terminbuchung und Produktkatalog.  
-Tech: React, TypeScript, React Router
+[Website](https://tattoodana.de) · [Code](https://github.com/AnnaFillanna/dana-tattoo)
 
-**[KAVRO Barber Studio](https://annafillanna.github.io/kavro-barber-shop)**  
-Barber-Shop Demo mit Serviceübersicht und Terminbuchung.
+### 2. Mamma Mia – Pizza Configurator
 
-### Kontakt
+Pizzeria-Demo mit Pizza-Konfigurator, dynamischer Preisberechnung, Warenkorb und Bestellablauf. Der Schwerpunkt liegt auf Zustandsverwaltung und nachvollziehbarer Bestelllogik, abgesichert durch Unit- und Browser-Tests.
+
+**React · TypeScript · Redux Toolkit**
+
+[Demo](https://annafillanna.github.io/Pizzeria-Mama-Mia/) · [Code](https://github.com/AnnaFillanna/Pizzeria-Mama-Mia)
+
+### 3. Anna Filippi Studio
+
+Meine Portfolio-Website mit Projekten und Fotografie. Neben der Gestaltung gehören eine serverseitig verarbeitete Kontaktanfrage, vorgerenderte Seiten und automatisierte Tests zum Projekt.
+
+**React · TypeScript · SCSS Modules · Supabase**
+
+[Website](https://annafilippi.studio) · [Code](https://github.com/AnnaFillanna/anna-filippi.studio)
+
+### 4. VELORA Beauty House
+
+Beauty-Studio-Demo mit Produktkatalog und mehrstufiger Terminbuchung. Im Mittelpunkt stehen die Auswahl von Behandlung und Termin sowie die Validierung der Kundendaten.
+
+**React · TypeScript · React Router**
+
+[Demo](https://annafillanna.github.io/velora-beauty/) · [Code](https://github.com/AnnaFillanna/velora-beauty)
+
+### 5. KAVRO Barber Shop
+
+Barber-Shop-Demo mit Serviceübersicht und mehrstufiger Terminbuchung. Die Buchungslogik berücksichtigt die gewählte Leistung, das Datum und die Uhrzeit.
+
+**React · TypeScript · CSS**
+
+[Demo](https://annafillanna.github.io/kavro-barber-shop/) · [Code](https://github.com/AnnaFillanna/kavro-barber-shop)
+
+## Technologien
+
+React, TypeScript, JavaScript, HTML, CSS/SCSS · Vite, React Router, Redux Toolkit · Git, REST APIs, Supabase
+
+## Kontakt
+
 - Website: [annafilippi.studio](https://annafilippi.studio)
-- E-Mail: annakiefel@web.de
+- E-Mail: [annakiefel@web.de](mailto:annakiefel@web.de)
 - Standort: Andernach, Deutschland
