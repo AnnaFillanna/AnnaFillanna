@@ -46,13 +46,11 @@ Barber-Shop-Demo mit Serviceübersicht und mehrstufiger Terminbuchung. Die Buchu
 
 ### 6. Stellar Burgers
 
-Deutschsprachiger Burger-Konfigurator mit Zutatenkatalog, Nährwertansicht, dynamischer Preisberechnung und Bestellablauf. Das Lern- und Portfolioprojekt verbindet Redux-Zustandsverwaltung, REST-API-Anbindung und geschützte Benutzerbereiche. Unit-Tests mit Jest und Browser-Tests mit Playwright sichern zentrale Abläufe ab.
-
-[![Stellar Burgers – deutscher Zutatenkatalog und Burger-Konfigurator](https://raw.githubusercontent.com/AnnaFillanna/stellar-burgers/main/docs/images/burger-konfigurator.png)](https://github.com/AnnaFillanna/stellar-burgers)
+Deutschsprachiger Burger-Konfigurator mit Zutatenkatalog, dynamischer Preisberechnung und geschützten Benutzerbereichen. Der Schwerpunkt liegt auf Redux-Zustandsverwaltung und REST-API-Anbindung, abgesichert durch Unit-Tests mit Jest und Browser-Tests mit Playwright.
 
 **React · TypeScript · Redux Toolkit · REST API · Jest · Playwright**
 
-[Code und Projektdokumentation](https://github.com/AnnaFillanna/stellar-burgers#readme)
+[Code](https://github.com/AnnaFillanna/stellar-burgers)
 
 ## Technologien
 
